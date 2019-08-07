@@ -1,2 +1,2 @@
 # ad-system
-基于微服务架构的广告系统
+基于SpringCloud构建的微服务广告系统
