@@ -22,13 +22,14 @@
 
     <properties>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
+        <loombok.version>1.16.18</loombok.version>
     </properties>
 
     <dependencies>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.16.18</version>
+            <version>${loombok.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
