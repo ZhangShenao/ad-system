@@ -23,6 +23,7 @@
     <properties>
         <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
         <loombok.version>1.16.18</loombok.version>
+        <fastjson.version>1.2.31</fastjson.version>
     </properties>
 
     <dependencies>
